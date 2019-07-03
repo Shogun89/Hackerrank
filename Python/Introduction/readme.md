@@ -1,0 +1,11 @@
+# [Introduction](https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bsubdomains%5D%5B%5D=numpy)
+
+| Subdomain |                                                          Challenge                                                         | Points |                                                                                          Solution                                                                                         |
+|:---:|:--------------------------------------------------------------------------------------------------------------------------:|:------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Introduction  | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) |  5  | [py-hello-world.py](https://github.com/Shogun89/Hackerrank/blob/master/Python/Introduction/py-hello-world.py)                | 
+| Introduction  | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem) |  10  | [py-if-else.py](https://github.com/Shogun89/Hackerrank/blob/master/Python/Introduction/py-if-else.py)                | 
+| Introduction  | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) |  10  | [python-arithmetic-operators.py](https://github.com/Shogun89/Hackerrank/blob/master/Python/Introduction/python-arithmetic-operators.py)                | 
+| Introduction  | [Python: Division](https://www.hackerrank.com/challenges/python-divison/problem) |  10  | [python-divsion.py](https://github.com/Shogun89/Hackerrank/blob/master/Python/Introduction/python-divison.py)                | 
+| Introduction  | [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem) |  10  | [write-a-function.py](https://github.com/Shogun89/Hackerrank/blob/master/Python/Introduction/write-a-function.py)                |
+| Introduction  | [Print Function](https://www.hackerrank.com/challenges/python-print/problem) |  10  | [python-print.py](https://github.com/Shogun89/Hackerrank/blob/master/Python/Introduction/python-print.py)                |
+  

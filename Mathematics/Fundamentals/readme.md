@@ -1,0 +1,9 @@
+# [Fundamentals](https://www.hackerrank.com/domains/mathematics?filters%5Bsubdomains%5D%5B%5D=fundamentals)
+
+| Subdomain |                                                          Challenge                                                         | Points |                                                                                          Solution                                                                                         |
+|:---:|:--------------------------------------------------------------------------------------------------------------------------:|:------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  Fundamentals | [Find the Point](https://www.hackerrank.com/challenges/find-point/problem)                                       |  5   | [find-point.py](./Fundamentals/find-point.py)                | 
+|  Fundamentals | [Best Divisor](https://www.hackerrank.com/challenges/best-divisor/problem)                                       |  20   | [best-divisor.py](./Fundamentals/best-divisor.py)                | 
+|  Fundamentals | [Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws/problem)                                       |  10   | [maximum-draws.py](./Fundamentals/maximum-draws.py)                | 
+|  Fundamentals | [Handshake](https://www.hackerrank.com/challenges/handshake/problem)                                       |  10   | [handshake.py](./Fundamentals/handshake.py)                | 
+|  Fundamentals | [Minimum Height Triangle](https://www.hackerrank.com/challenges/lowest-triangle/problem)                                       |  10  | [lowest-triangle.py](./Fundamentals/lowest-triangle.py)                | 
